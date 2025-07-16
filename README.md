@@ -1,3 +1,4 @@
+![logo](https://github.com/arinmoykar007/arinmoykar007/blob/main/Screenshot%202024-09-07%20214318.png)
 <h1 align="center">Hi 👋, I'm Arinmoy kar</h1>
 <h3 align="center">A Passionate Software Engineer from India</h3>
 
